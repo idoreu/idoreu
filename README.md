@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @idoreu
 - 👀 I’m interested in Git
 - 🌱 I’m currently learning Matam
-- 💞️ I’m looking to collaborate on Yo mama
+- 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me: Don't
 
 <!---
