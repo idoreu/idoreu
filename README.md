@@ -5,7 +5,7 @@ of the Technion</h1>
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Operating systems:</b>
-  - [Bash Shell](https://github.com/idoreu/Abstract-AVL-Tree)
+  - [Bash Shell](https://github.com/idoreu/Bash_Shell)
   - [Web server and Web client (written both in C++)](https://github.com/idoreu/Abstract-AVL-Tree)<b>
   - [Memory allocation functions](https://github.com/idoreu/Abstract-AVL-Tree)
 - <b>Data structures:</b>
