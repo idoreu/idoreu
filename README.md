@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @idoreu
+<h1>👋 Hi, I’m Ido</h1>
 - 👀 I’m interested in Git
 - 🌱 I’m currently learning Matam
 - 💞️ I’m looking to collaborate on a project
