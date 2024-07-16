@@ -9,7 +9,7 @@ of the Technion</h1>
   - [Web server and Web client (written both in C++)](https://github.com/idoreu/Abstract-AVL-Tree)<b>
   - [Memory allocation functions](https://github.com/idoreu/Abstract-AVL-Tree)
 - <b>Data structures:</b>
-  - [Memory allocation functions](https://github.com/idoreu/Abstract-AVL-Tree)
+  - [record store data base](https://github.com/idoreu/Records-store-data-base)
   - [Streaming server program](https://github.com/idoreu/Streaming-server-program)
 - <b>intro to C++ and systems programming:</b>
   - [Memory allocation functions](https://github.com/idoreu/Abstract-AVL-Tree)
