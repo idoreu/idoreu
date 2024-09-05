@@ -4,7 +4,9 @@ of the Technion</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-
+<b>~~  My own projects  ~~</b>
+-  <b>Typescript:</b>
+  - [User Profile]()
 
 <b>~~  Technion course projects  ~~</b>
 - <b>Operating systems:</b>
