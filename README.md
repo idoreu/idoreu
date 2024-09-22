@@ -11,8 +11,8 @@ of the Technion</h1>
 <b>~~  Technion course projects  ~~</b>
 - <b>Operating systems:</b>
   - [Bash Shell](https://github.com/idoreu/Bash_Shell)
-  - [Web server and Web client (written both in C++)](https://github.com/idoreu/Abstract-AVL-Tree)<b>
-  - [Memory allocation functions](https://github.com/idoreu/Abstract-AVL-Tree)
+  - [Web server and Web client (written both in C++)](https://github.com/idoreu/Abstract-AVL-Tree)
+  - [Memory allocation functions](https://github.com/idoreu/Memory-allocator-functions)
 - <b>Data structures:</b>
   - [record store data base](https://github.com/idoreu/Records-store-data-base)
   - [Streaming server program](https://github.com/idoreu/Streaming-server-program)
