@@ -5,7 +5,7 @@ of the Technion</h1>
 <h2>👨‍💻 Software Development Projects:</h2>
 
 <b>~~  My own projects  ~~</b>
--  <b>Typescript:</b>
+- <b>Typescript:</b>
   - [User Profile](https://github.com/idoreu/User-Profile/blob/main/README.md)
 
 <b>~~  Technion course projects  ~~</b>
