@@ -6,7 +6,7 @@ of the Technion</h1>
 
 <b>~~  My own projects  ~~</b>
 -  <b>Typescript:</b>
-  - <b>[User Profile](https://github.com/idoreu/User-Profile/blob/main/README.md)</b>
+  - [User Profile](https://github.com/idoreu/User-Profile/blob/main/README.md)
 
 <b>~~  Technion course projects  ~~</b>
 - <b>Operating systems:</b>
