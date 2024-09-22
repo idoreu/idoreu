@@ -18,13 +18,10 @@ of the Technion</h1>
   - [Streaming server program](https://github.com/idoreu/Streaming-server-program)
 - <b>intro to C++ and systems programming:</b>
   - [Munchkin game](https://github.com/idoreu/Munchkin-game)
-  - [Memory allocation functions](https://github.com/idoreu/Abstract-AVL-Tree)
 - <b>Python:</b>
 - <b>intro to C language:</b>
-  - [Memory allocation functions](https://github.com/idoreu/Abstract-AVL-Tree)
-  - [Memory allocation functions](https://github.com/idoreu/Abstract-AVL-Tree)
-  - [Memory allocation functions](https://github.com/idoreu/Abstract-AVL-Tree)
- 
+  - [Four in a row](https://github.com/idoreu/Abstract-AVL-Tree)
+  - [caesar cipher](https://github.com/idoreu/Abstract-AVL-Tree) 
 <!---
 idoreu/idoreu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
