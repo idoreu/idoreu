@@ -19,6 +19,7 @@ of the Technion</h1>
 - <b>intro to C++ and systems programming:</b>
   - [Munchkin game](https://github.com/idoreu/Munchkin-game)
 - <b>Python:</b>
+  -[Load Balancer Simulation](https://github.com/idoreu/Load-Balancer-Simulation)
 - <b>intro to C language:</b>
   - [Four in a row](https://github.com/idoreu/Abstract-AVL-Tree)
   - [caesar cipher](https://github.com/idoreu/Abstract-AVL-Tree) 
